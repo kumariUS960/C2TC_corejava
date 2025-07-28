@@ -7,7 +7,8 @@ public class finaldemo {
 	        bt.performTransaction(100.0);
 
 	        
-	        System.out.println("Transaction Fee: $" + bt.getTransactionFee());
+	        System.out.println("Transaction Fee: $" + getTransactionFee());
 	    }
 
+	}
 }

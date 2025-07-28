@@ -1,4 +1,4 @@
-package com.tnsif.daysix.stati;
+package assignment1;
 
 public class bank {
 	private static final String AccountHolder = null;

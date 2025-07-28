@@ -1,4 +1,4 @@
-package com.tnsif.daysix.stati;
+package assignment1;
 
 public class bankdemo {
 	public static void main(String[] args) {
